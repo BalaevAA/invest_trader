@@ -1,1 +1,2 @@
-coursuck
+Course project
+"Invest trader"
